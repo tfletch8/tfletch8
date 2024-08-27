@@ -3,7 +3,7 @@ Hi there! My name is Thomas Fletcher, and I am a senior at the University of Nor
 
 ## Projects
 I have also created a golf course website that utilized HTML, CSS, and JavaScript and integrated a weather API.
-I am currently working on a College Football Team Ranker, which ranks any college football team by conference, and I will potentially integrate an Angular frontend with the current Java backend.
+I am currently working on a College Football Team Ranker, which ranks any FBS college football team by conference.
 
 ## Goals and Objectives
 I aspire to become a software engineer one day for any company.
