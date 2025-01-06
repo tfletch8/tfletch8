@@ -3,8 +3,8 @@ Hi there! My name is Thomas Fletcher, and I am a recent Computer Science graduat
 
 ## Reach Out!
 
-[LinkedIn](www.linkedin.com/in/thomas-fletcher-a31546222)
-[Email](thomasfletcher2003@gmail.com)
+[LinkedIn](htttps://www.linkedin.com/in/thomas-fletcher-a31546222)
+[Email](https://thomasfletcher2003@gmail.com)
 <!--
 **tfletch8/tfletch8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
