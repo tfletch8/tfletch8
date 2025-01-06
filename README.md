@@ -1,12 +1,10 @@
 ## About Me
-Hi there! My name is Thomas Fletcher, and I am a senior at the University of North Carolina at Charlotte studying computer science with a concentration in software, systems, and networks. I have some projects I am currently working on at the moment, but I have also created a golf course website that utilized HTML, CSS, and JavaScript and integrated a weather API.
+Hi there! My name is Thomas Fletcher, and I am a recent Computer Science graduate of the University of North Carolina at Charlotte with a concentration in software, systems, and networks. I have some projects I am currently working on at the moment, but I have created a golf course website that utilizes HTML, CSS, and JavaScript and integrates a weather API, as well as a grocery store website that was a capstone project I worked on with some of my former colleagues. 
 
-## Projects
-I have also created a golf course website that utilized HTML, CSS, and JavaScript and integrated a weather API.
-I am currently working on a College Football Team Ranker, which ranks any FBS college football team by conference.
+## Reach Out!
 
-## Goals and Objectives
-I aspire to become a software engineer one day for any company.
+[LinkedIn](www.linkedin.com/in/thomas-fletcher-a31546222)
+[Email](thomasfletcher2003@gmail.com)
 <!--
 **tfletch8/tfletch8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
